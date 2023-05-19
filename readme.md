@@ -8,9 +8,9 @@ Kaminski, Jermain; Schober, Michael; Albaladejo, Raymond; Zastupailo, Oleksandr;
 
 ## Purpose 
 
-I teach a class on network analysis in psychological science and the original [Moviegalaxies website](https://moviegalaxies.com/) has been very useful to help illustrate several network concepts to my students. However, the website is no longer working, and I wanted to have a way for my students to explore the movie data without relying on the website being available. 
+I teach a class on network analysis in the psychological sciences and the original [Moviegalaxies website](https://moviegalaxies.com/) has been very useful to help illustrate several network concepts to my students. However, the website is no longer working, and I wanted to have a way for my students to explore the movie data without relying on the website being available. 
 
-Because my students are learning how to use R and RStudio to conduct network analyses it makes sense to implement it as a R Shiny app. It can be easily hosted on a website (see http://r-serer.csqsiew.xyz/movie-networks) to see application in action), but one can also easily download all of the files in this repo and load the Shiny application locally. 
+Because my students are learning how to use R and RStudio to conduct network analyses it makes sense to implement it as a R Shiny app. It can be easily hosted on a website (see http://r-serer.csqsiew.xyz/movie-networks) to see the application in action), but one can also easily download all of the files in this repo and load the Shiny application locally. 
 
 ## How to Use  
 
@@ -30,10 +30,11 @@ A demo of this application can be found here: http://r-server.csqsiew.xyz/movie-
 
 ## Final notes
 
-last updated: 30th April 2023  
+last updated: 20th May 2023  
 
 Please feel free to adapt for your own use.
 
-If you found this useful, feel free to tip me here: https://ko-fi.com/csqsiew or check out my work here: http://hello.csqsiew.xyz/
+If you found this useful, feel free to tip me here: https://ko-fi.com/csqsiew or check out my research here: http://hello.csqsiew.xyz/
 
 Thanks! :)
+
